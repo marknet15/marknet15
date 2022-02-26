@@ -15,4 +15,6 @@ I particularly enjoy working with the Python language, but also dapple in other 
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marknet15&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marknet15&hide=stars&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marknet15&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
