@@ -1,6 +1,6 @@
 ## Introduction :wave:
 
-Hi I'm Mark, a DevOps / Automation engineer based in the South West of England, currently working for Just Eat Takeaway.com.
+Hi I'm Mark, a Senior DevOps / Automation engineer based in the South West of England, currently working for Just Eat Takeaway.com.
 
 My main strengths and passions are in particular around providing a seamless automation framework to deploy and provision cloud infrastructure and furthermore develop and maintain CI / CD workflows.
 
