@@ -9,8 +9,8 @@ I particularly enjoy working with the Python language, but also dapple in other 
 ## Skills :hammer_and_wrench:
 
 - Languages: Python
-- IaC tooling: Ansible, Terraform, Packer, GitHub Actions
-- DevOps: Linux, Bash, Docker, Kubernetes, CI/CD
+- IaC tooling: Ansible, Terraform, Packer
+- DevOps: Linux, Bash, Docker, Kubernetes, CI/CD, GitHub Actions
 - Cloud infra providers: AWS
 
 ## Stats
