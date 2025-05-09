@@ -4,13 +4,13 @@ Hi I'm Mark, a Senior DevOps engineer based in the South West of England, curren
 
 My main strengths and passions are in particular around providing a seamless automation framework to build and deploy application services and cloud infrastructure, maintaining CI / CD workflow's and user journeys.
 
-I particularly enjoy working with the Python language, but also dapple in other languages such as GoLang and Node JS.
+I particularly enjoy working with the Python & TypeScript language.
 
 ## Skills :hammer_and_wrench:
 
-- Languages: Python
+- Languages: Python, TypeScript, Bash
 - IaC tooling: Ansible, Terraform, Packer
-- DevOps: Linux, Bash, Docker, Kubernetes, CI/CD, GitHub Actions
+- DevOps: Linux, Bash, Docker, Kubernetes, CI/CD, GitHub Actions, Backstage
 - Cloud infra providers: AWS
 
 ## Stats
